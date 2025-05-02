@@ -1,0 +1,9 @@
+body {
+  font-family: "Inter", sans-serif;
+  transition: background 0.3s ease;
+}
+
+.dark {
+  background-color: #111827;
+  color: #fff;
+}
